@@ -1,0 +1,12 @@
+C:\Users\lynette\AppData\Local\Temporary Projects\LP3 Motor class\bin\Debug\LP3 Motor class.exe.config
+C:\Users\lynette\AppData\Local\Temporary Projects\LP3 Motor class\obj\Debug\LP3 Motor class.vbprojResolveAssemblyReference.cache
+C:\Users\lynette\AppData\Local\Temporary Projects\LP3 Motor class\obj\Debug\LP3_Motor_class.AddForm.resources
+C:\Users\lynette\AppData\Local\Temporary Projects\LP3 Motor class\obj\Debug\LP3_Motor_class.Resources.resources
+C:\Users\lynette\AppData\Local\Temporary Projects\LP3 Motor class\obj\Debug\LP3 Motor class.vbproj.GenerateResource.Cache
+C:\Users\lynette\AppData\Local\Temporary Projects\LP3 Motor class\obj\Debug\LP3 Motor class.xml
+C:\Users\lynette\AppData\Local\Temporary Projects\LP3 Motor class\bin\Debug\LP3 Motor class.exe
+C:\Users\lynette\AppData\Local\Temporary Projects\LP3 Motor class\bin\Debug\LP3 Motor class.pdb
+C:\Users\lynette\AppData\Local\Temporary Projects\LP3 Motor class\bin\Debug\LP3 Motor class.xml
+C:\Users\lynette\AppData\Local\Temporary Projects\LP3 Motor class\obj\Debug\LP3_Motor_class.MainForm.resources
+C:\Users\lynette\AppData\Local\Temporary Projects\LP3 Motor class\obj\Debug\LP3 Motor class.exe
+C:\Users\lynette\AppData\Local\Temporary Projects\LP3 Motor class\obj\Debug\LP3 Motor class.pdb
